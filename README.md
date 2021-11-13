@@ -10,7 +10,7 @@ This is a budget tracking app, you can add money, or substract money from your v
 https://polar-badlands-25931.herokuapp.com/#
 
 ## Screenshot Of Main Screen
-
+<img width="1127" alt="Screenshot 2021-11-12 at 16 41 22" src="https://user-images.githubusercontent.com/75599021/141598970-7f922775-7b99-4f83-8390-e1e9dcf59d88.png">
 
 ## Built With
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
